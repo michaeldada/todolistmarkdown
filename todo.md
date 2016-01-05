@@ -7,7 +7,7 @@
 * coffee
 * pumpkin
 * booze
-* ***
+***
 ## Things to Act Upon
 ![photo of school](http://static1.squarespace.com/static/5524448ee4b0d6f6b83ab9e2/t/55244514e4b08ad5c0f51a01/1451522396623/?format=1500w)
 1. go to [**school**](http://www.epicodus.com)
